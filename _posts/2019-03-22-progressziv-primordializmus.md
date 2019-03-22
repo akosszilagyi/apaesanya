@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Natus Demográfiai Társaság: progresszív primordializmus
+title: Natus Demográfiai Társaság - progresszív primordializmus
 ---
 
 # Mi a primordialitás?
