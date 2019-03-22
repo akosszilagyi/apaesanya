@@ -9,7 +9,7 @@
 
 # If you are building a GitHub project page then use these settings:
 url: "http://akosszilagyi.github.io/apaesanya"
-baseurl: "/apaesanya"
+baseurl: "http://akosszilagyi.github.io//apaesanya"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
