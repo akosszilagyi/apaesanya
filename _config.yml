@@ -23,7 +23,6 @@ description: Natus Demográfiai Társaság
 
 # List of links in the navigation bar
 navbar-links:
-  Rólunk: "aboutme"
   Hírek:
     - Stratégiai feladatok: "https://nepfolakitelek.hu/index.php?option=com_content&view=article&id=1702:natus-demografiai-tarsasag--strategiai-feladat-megbeszeles&catid=20:hirek&Itemid=40"
     - Egyetemek: "http://web.uni-miskolc.hu/files/4387/megazin_2015_szeptember_WEB_2015_09_19+m%C3%A1solat.pdf"
